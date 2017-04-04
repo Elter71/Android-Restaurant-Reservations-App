@@ -1,4 +1,4 @@
-#Aplikacja do rezerwowania stolików w restauracji
+# Aplikacja do rezerwowania stolików w restauracji
 
 ----
 >Wykorzystane framework to Mosby MVP opowiadający za implementacje wzorca MVP.
