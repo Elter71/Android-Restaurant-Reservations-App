@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_07bf7c7b4a053b389fa8d395d557a2823b05030a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_b401a672efe719d4e0c16ac1c0afa4206c4a1bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbe9470bb362a829fab913ccb3bdcc2f0971d0f">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/instant-run_4f9727fdfc0d226352cb8314b8674f721e7eef81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby/mvp-common/2.0.1/d75c9c5577143f3cf3fd63f61526a551f910b56f/mvp-common-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d75c9c5577143f3cf3fd63f61526a551f910b56f">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/mvp-common-2.0.1_11e347ae68a56bf5ea5d330a21e3a8c087138714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_f551021b75dad48426edbc1e82acb677101ab883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_edd2e26bb7899e2e43a0f010a9da57ebb98e411c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_0f0a3c9eb8df5d57c72e58bca931f135be2a927d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/viewstate/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66898369cdbdcd732d7b0143aa12010cf4814005">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-viewstate-2.0.1_484e289181c565a21d76f80da52c5d3797cbb436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/mvp/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d5f68a8fdd8283ea42b20259ae4adad9cbe5e94">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-mvp-2.0.1_c75ac4cfaedec21f10ffeff1d309b014120eb61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_9ac4801ec30b8b4b33470251cb329dde31662938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_877ae6f421cfffa3a641a993900ad4461777510c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_cdc836de2c39d676c3adec10dd395419a9d8fa57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.5.1_cead14ccc11ba013e107d4bfca5adb079e71f204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_84ccad49711b89076ad68d37091b3d08f9e22a62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_17f7e8dc5c03d3e3bd31e8092a4f022573aa26e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/viewstate/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66898369cdbdcd732d7b0143aa12010cf4814005">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-viewstate-2.0.1_484e289181c565a21d76f80da52c5d3797cbb436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_3fc57289378b5379b033c130f745d11a4ef21bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby/mvp-common/2.0.1/d75c9c5577143f3cf3fd63f61526a551f910b56f/mvp-common-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d75c9c5577143f3cf3fd63f61526a551f910b56f">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/mvp-common-2.0.1_11e347ae68a56bf5ea5d330a21e3a8c087138714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_a1eff09fb5be7d5a012163bfa8edd8089967100d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_13df7f855d2cd2cb4be80604426e8cf1d233dc4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_fde3dcc7c6432af036ef9ca5c93b4b05ab29e8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/mvp/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d5f68a8fdd8283ea42b20259ae4adad9cbe5e94">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-mvp-2.0.1_c75ac4cfaedec21f10ffeff1d309b014120eb61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efe59aa97931d162f7152565d3f22103c9c88cca">
+        <dex dex="/home/elter/AndroidStudioProjects/android/MVP/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d4544f2e584cfa040ce0f887d83d8a01c58d8ff0.jar" />
+    </item>
+
+</items>
